@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  Tic Tac Toe Project Final.cpp
+d:\documents\school\12th grade\c++\semester project tic tac toe\final version\tic tac toe project final\tic tac toe project final\tic tac toe project final.cpp(229): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\documents\school\12th grade\c++\semester project tic tac toe\final version\tic tac toe project final\tic tac toe project final\tic tac toe project final.cpp(234): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\documents\school\12th grade\c++\semester project tic tac toe\final version\tic tac toe project final\tic tac toe project final\tic tac toe project final.cpp(257): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tic Tac Toe Project Final.vcxproj -> D:\Documents\School\12th grade\C++\Semester Project Tic Tac Toe\Final Version\Tic Tac Toe Project Final\Debug\Tic Tac Toe Project Final.exe
